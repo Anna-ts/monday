@@ -1,3 +1,4 @@
-##Bring me coffee
 # monday
+## We need coffee!
 git practice repo
+
